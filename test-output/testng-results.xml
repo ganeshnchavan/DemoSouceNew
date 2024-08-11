@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T18:36:20 IST" name="Suite" finished-at="2024-08-10T18:36:28 IST" duration-ms="8564">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T18:36:20 IST" name="Test" finished-at="2024-08-10T18:36:28 IST" duration-ms="8564">
+      <class name="com.TestCase.MyTestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestCase.MyTestCases@402c4085]" started-at="2024-08-10T18:36:20 IST" name="Setup" finished-at="2024-08-10T18:36:27 IST" duration-ms="6992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLogo()[pri:1, instance:com.TestCase.MyTestCases@402c4085]" started-at="2024-08-10T18:36:27 IST" name="VerifyLogo" finished-at="2024-08-10T18:36:27 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogo -->
+        <test-method signature="AddProducttoart()[pri:2, instance:com.TestCase.MyTestCases@402c4085]" started-at="2024-08-10T18:36:27 IST" name="AddProducttoart" finished-at="2024-08-10T18:36:28 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProducttoart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestCase.MyTestCases@402c4085]" started-at="2024-08-10T18:36:28 IST" name="TearDown" finished-at="2024-08-10T18:36:28 IST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.TestCase.MyTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
